@@ -1,0 +1,15 @@
+.env
+
+env
+venv
+aws
+
+__pycache__
+
+# Log files
+*.log
+
+# Applications
+*.app
+*.exe
+*.war

@@ -1,0 +1,6 @@
+[flake8]
+max-line-length = 120
+extend-ignore = E266, C901, E203
+max-complexity = 20
+
+exclude = .venv, .env, env, venv, alembic, __pycache__
